@@ -9,7 +9,7 @@
 - Run the `go get github.com/gorilla/mux`
 - Run the `go run .`
 ## Result
-![./CRM/envidences/run.png](run.png)
+![run.png](./CRM/evidences/run.png)
 
 # Testing
 - You can test using Postman tool
